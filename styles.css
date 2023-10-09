@@ -1,0 +1,16 @@
+@import url(header.css);
+:root{
+    --fonte-principal: "Dancing Script";
+    --fonte-secundaria: "Mooli";
+    --cor-de-fundo: #9949B4;
+    --cor-cabecalho: #FFFFFF;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    margin: 0;
+}
+
+h1{
+    font-weight: normal;
+}
