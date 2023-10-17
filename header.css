@@ -12,6 +12,8 @@ display: inline-block;
 .container{
     display: flex;
     align-items: center;
+    width: 24px;
+    height: 24px;
 }
 
 .container__imagem, .container__titulo, .container__frase{
