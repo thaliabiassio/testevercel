@@ -2,11 +2,7 @@
     background-color: var(--cor-cabecalho);
     padding: 1em;
 }
-.cabecalho__menu-hamburguer-imagem{
-    width: 24px;
-    height: 24px;
-    display: inline-block;
-}
+
 .cabecalho__menu-hamburguer{
 width: 24px;
 height: 24px;
