@@ -38,6 +38,9 @@ padding: 1em;
     display: none;
 }
 
+.lista-menu{
+    display: none;
+}
 @media screen and (min-width: 820px){
     .container__titulo, .container__titulo--negrito{
         font-size: 30px;
