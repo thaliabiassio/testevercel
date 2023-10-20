@@ -41,6 +41,10 @@ padding: 1em;
 .lista-menu{
     display: none;
 }
+
+.container__botao:checked ~ .lista-menu{
+    display: block;
+}
 @media screen and (min-width: 820px){
     .container__titulo, .container__titulo--negrito{
         font-size: 30px;
